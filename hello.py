@@ -2,4 +2,4 @@
 
 print("Hello Git")
 print("goodbye")
-print("wow")
+print("wowz")
